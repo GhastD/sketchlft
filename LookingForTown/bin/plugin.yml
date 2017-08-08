@@ -1,0 +1,8 @@
+main: me.ghast.lff.Main
+version: 1.0
+name: SketchLFT
+description: Looking For Town plugin
+commands:
+  lft:
+  
+  
